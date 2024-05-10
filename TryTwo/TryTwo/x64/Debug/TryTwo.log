@@ -1,0 +1,57 @@
+﻿  TryTwo.cpp
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\Matrix4x4.h(4,38): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“TryTwo.cpp”)
+  
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\Vector3i.h(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“TryTwo.cpp”)
+  
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\geometry.h(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“TryTwo.cpp”)
+  
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(25,34): warning C4244: “初始化”: 从“float”转换到“size_t”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(40,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(41,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(63,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(65,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(67,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(67,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(94,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(96,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(98,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(98,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(104,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(131,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(133,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(135,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(135,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(148,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(153,78): warning C4244: “参数”: 从“float”转换到“GLubyte”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(153,57): warning C4244: “参数”: 从“float”转换到“GLubyte”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(153,36): warning C4244: “参数”: 从“float”转换到“GLubyte”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(172,50): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(173,60): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(174,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(175,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(176,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(177,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(194,50): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(212,38): warning C4244: “初始化”: 从“float”转换到“size_t”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(213,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(222,50): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(242,38): warning C4244: “初始化”: 从“float”转换到“size_t”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(244,51): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(259,50): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(286,38): warning C4244: “初始化”: 从“float”转换到“size_t”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(288,51): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(294,27): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(294,20): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(303,50): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(320,44): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(360,29): warning C4244: “参数”: 从“const float”转换到“GLsizei”，可能丢失数据
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\TryTwo.cpp(360,22): warning C4244: “参数”: 从“const float”转换到“GLsizei”，可能丢失数据
+  geometry.cpp
+E:\VSSpace\WorkMissionTwo\TryTwo\TryTwo\geometry.h(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“geometry.cpp”)
+  
+  正在生成代码...
+  TryTwo.vcxproj -> E:\VSSpace\WorkMissionTwo\TryTwo\x64\Debug\TryTwo.exe
